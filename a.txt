@@ -15,5 +15,3 @@ Searching for genesis hash..
 genesis hash found!
 nonce: 10375
 genesis hash: 00001ba38b315dd17ffff0cbefe04dd6d7d95ea262b85cd2b96a35ba5d4ccc9b
-
-
