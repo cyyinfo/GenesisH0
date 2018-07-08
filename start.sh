@@ -1,1 +1,1 @@
-python genesis.py -z "The Times 16/Jun/2018 Chancellor on brink of second bailout for banks" -t 1529464291 -b 0x1d00ffff -p "04d066d7ada630ffed97aa6d6fb7a37c2c7b4c344907ea96c2827d1f1c3a1952796235826fe54744bd1d4a1fdc901eecafedc8ec593fd4bedf613fd0a3e6066e95"
+python genesis.py -z "The Times 16/Jun/2018 Chancellor on brink of second bailout for banks" -t 1529464291 -b 0x1d00ffff -p "04d066d7ada630ffed97aa6d6fb7a37c2c7b4c344907ea96c2827d1f1c3a1952796235826fe54744bd1d4a1fdc901eecafedc8ec593fd4bedf613fd0a3e6066e95" -n 20000000
