@@ -4,8 +4,8 @@ merkle hash: 9827d592bed458101581798620ddec65745fd10f54b045b5210710c96d2a974a
 pszTimestamp: The Times 16/Jun/2018 Chancellor on brink of second bailout for banks
 pubkey: 04d066d7ada630ffed97aa6d6fb7a37c2c7b4c344907ea96c2827d1f1c3a1952796235826fe54744bd1d4a1fdc901eecafedc8ec593fd4bedf613fd0a3e6066e95
 time: 1529464291
-bits: 0x207fffff
+bits: 0x1e0fffff
 Searching for genesis hash..
 genesis hash found!
-nonce: 0
-genesis hash: 5d5e15f36e972785fe84edac821e2ddc5ed320db9f409791c218070fa4e0c66f
+nonce: 18620
+genesis hash: 00000a887b0236fc983eaac3f795d49cf27bd417436005fc630e7e65a7001623
